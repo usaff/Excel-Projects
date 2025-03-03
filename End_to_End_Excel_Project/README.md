@@ -1,24 +1,39 @@
-# 📊 Sales Performance Analysis
+# 📊 Sales Performance Dashboard
 
-## 📌 Project Overview
-This project analyzes sales performance data to evaluate key trends, sales efficiency, and team productivity. The goal is to derive actionable insights that help improve sales strategies and meet business targets more effectively. 
+## 📅 Project Date: 01-01-2025  
+## 👨‍💻 Author: Muhammad Yousaf  
 
-## 🎯 Why This Project?
-Understanding sales performance is crucial for optimizing revenue, identifying top-performing sales executives, and recognizing areas that need improvement. This project aims to:
-- Identify the highest and lowest sales contributors.
-- Analyze sales trends across different regions.
-- Evaluate how close sales executives are to their targets.
-- Provide visual insights for decision-making.
+---
 
-## 📊 Key Insights
-✔ **Top Sales Executives:** Identified individuals driving the highest sales figures.
-✔ **Regional Sales Performance:** Compared sales trends across multiple regions.
-✔ **Target Achievement Analysis:** Examined how sales executives performed against their targets.
-✔ **Gap Analysis:** Highlighted underperforming areas and potential improvement strategies.
-✔ **Performance Trends:** Visualized patterns in sales performance over time.
+## 📌 Project Overview  
+This Sales Performance Dashboard provides insights into the total sales achieved by sales executives across different regions. It helps businesses analyze key sales metrics, monitor performance against targets, and make data-driven decisions to optimize sales strategies.
 
-## 🚀 Tools & Technologies Used
-- **Microsoft Excel:** Data processing, Pivot Tables, and Dashboards
-- **Power Query:** Data transformation and cleaning
-- **Data Visualization Tools:** Charts, graphs, and performance indicators
+## 🎯 Why This Dashboard?  
+✔ Tracks individual sales performance across regions  
+✔ Helps in identifying high-performing and underperforming sales executives  
+✔ Provides insights into target achievement percentages  
+✔ Aids decision-making through clear visual representation  
 
+## 📊 Key Insights  
+✔ **Total Sales Breakdown** – Displays sales performance by individual executives.  
+✔ **Target Achievement %** – Highlights how close each executive is to their sales targets.  
+✔ **Sales Trends** – Compares sales figures across different regions.  
+✔ **Underperformance Analysis** – Identifies executives who need support to meet targets.  
+
+## 🛠️ Tools & Technologies Used  
+✔ **Microsoft Excel** – Pivot Tables, Charts, and Dashboards for data visualization.  
+✔ **Power Query** – Used for data transformation and cleaning (if applicable).  
+
+## 📸 Dashboard Preview  
+![Sales Performance Dashboard](Sales_Performance.PNG)  
+
+🔗 **Access the Full Dashboard Here:** [Click to View](Sales_Performance.PNG)  
+
+## 🚀 Business Impact  
+✔ Helps sales managers track performance at a glance.  
+✔ Identifies areas needing improvement for better business growth.  
+✔ Enhances strategic decision-making with real-time insights.  
+
+---
+
+For any questions or suggestions, feel free to reach out! 🚀
