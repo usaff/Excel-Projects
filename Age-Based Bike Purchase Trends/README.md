@@ -26,9 +26,16 @@ This project analyzes bike purchasing patterns based on customer demographics, i
 3️⃣ **Visualization** – Creating interactive dashboards for better data representation.  
 4️⃣ **Insights & Recommendations** – Providing strategic suggestions to improve bike sales based on findings.  
 
-## **📸 Dashboard Preview**  
-An interactive dashboard showcasing insights derived from the analysis, including graphs, charts, and key findings.  
-![Bike Sales Dashboard](Age-Based Bike Purchase Trends/Aged Bike Purchase Analysis.png)
+## **📸 Dashboard Previews**  
+### **🚲 Bike Sales Breakdown by Gender**  
+![Bike Sales Breakdown](sales.PNG)  
+
+### **🛤️ Commute Distance Impact on Bike Purchases**  
+![Commute Distance](Commute.PNG)  
+
+### **📊 Overall Bike Purchase Trends**  
+![Bike Sales Dashboard](BIKE.png)  
+
 ## **🚀 Tools & Technologies Used**  
 ✔ **Microsoft Excel** – Pivot Tables, Charts, and Dashboards for data visualization.  
 ✔ **Power Query** – Used for data transformation and cleaning (if applicable).  
@@ -39,8 +46,5 @@ An interactive dashboard showcasing insights derived from the analysis, includin
 ✔ Enhances decision-making through data-driven insights.  
 
 ---
-### **⭐ Contribute**  
-Feel free to fork this repository, open issues, or submit pull requests for improvements!
 
-
-
+If the images are still not showing, check the filenames and paths in your repository to ensure they match exactly. 🚀
