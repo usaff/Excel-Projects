@@ -1,9 +1,3 @@
-# 🚑 Hospital Emergency Department Insights
-
-**📅 Project Date:** 20-01-2025  
-**👨‍⚕️ Author:** Muhammad Yousaf  
-
----
 # 🚑 Hospital Emergency Department Insights  
 
 **📅 Project Date:** 20-01-2025  
