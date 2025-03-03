@@ -28,6 +28,7 @@ This project analyzes bike purchasing patterns based on customer demographics, i
 
 ## **📸 Dashboard Preview**  
 An interactive dashboard showcasing insights derived from the analysis, including graphs, charts, and key findings.  
+![Bike Sales Dashboard](Age-Based Bike Purchase Trends/Aged Bike Purchase Analysis.png)
 ## **🚀 Tools & Technologies Used**  
 ✔ **Microsoft Excel** – Pivot Tables, Charts, and Dashboards for data visualization.  
 ✔ **Power Query** – Used for data transformation and cleaning (if applicable).  
