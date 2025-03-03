@@ -6,13 +6,13 @@
 ---
 
 ## 📌 Project Overview  
-This Sales Performance Dashboard provides insights into the total sales achieved by sales executives across different regions. It helps businesses analyze key sales metrics, monitor performance against targets, and make data-driven decisions to optimize sales strategies.
+This Sales Performance Dashboard is designed for practice and learning purposes. It provides insights into sales performance across different regions, helping users understand how to track and visualize key sales metrics effectively.
 
 ## 🎯 Why This Dashboard?  
-✔ Tracks individual sales performance across regions  
-✔ Helps in identifying high-performing and underperforming sales executives  
-✔ Provides insights into target achievement percentages  
-✔ Aids decision-making through clear visual representation  
+✔ Practice data analysis and dashboard creation  
+✔ Learn how to track individual sales performance  
+✔ Understand how to measure target achievements  
+✔ Improve skills in data visualization  
 
 ## 📊 Key Insights  
 ✔ **Total Sales Breakdown** – Displays sales performance by individual executives.  
@@ -29,10 +29,8 @@ This Sales Performance Dashboard provides insights into the total sales achieved
 
 🔗 **Access the Full Dashboard Here:** [Click to View](Sales_Performance.PNG)  
 
-## 🚀 Business Impact  
-✔ Helps sales managers track performance at a glance.  
-✔ Identifies areas needing improvement for better business growth.  
-✔ Enhances strategic decision-making with real-time insights.  
+## 🚀 Disclaimer  
+📌 This data is **artificially generated for practice purposes** and does not represent real-world sales figures. It is meant to help users develop skills in dashboard creation and data analysis.  
 
 ---
 
